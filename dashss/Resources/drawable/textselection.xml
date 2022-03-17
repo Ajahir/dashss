@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<selector android:enterFadeDuration="@android:integer/config_shortAnimTime" android:exitFadeDuration="0"     xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item android:state_checked="true" android:color="#0000FF" />
+	<item android:state_checked="false" android:color="#FF0000"/>
+	<item android:color="@color/colorAccent" android:state_pressed="true"/>
+
+
+</selector>
